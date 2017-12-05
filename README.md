@@ -3,6 +3,6 @@
 ### encabezado3
 #### encabezado4
 <cita-comentario>
-*cursiva*  
+#*cursiva*  
 **negrita**  
 Soy el Brayan pero me dicen el Cangry
