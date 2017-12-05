@@ -1,5 +1,3 @@
-
-<Soy el Brayan pero me dicen el Cangry>  
 #EJEMPLO DE README.md
  
 ###Esto es un ejemplo de README.md
