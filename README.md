@@ -1,11 +1,4 @@
-# el-Cangry(Encabezado)
-## encabezado2
 
-#### encabezado4
-<comentario>
->cita  
-* cursiva   
-**negrita**  
 Soy el Brayan pero me dicen el Cangry  
 #EJEMPLO DE README.md
  
