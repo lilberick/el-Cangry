@@ -13,6 +13,6 @@ int main(){
   return 0;
 }`
 ```
-*lista1  
+* lista1  
 1.utiles  
 2.cosas  
