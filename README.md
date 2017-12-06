@@ -21,4 +21,4 @@ t. tambien
 
 **A ver que tenemos aqui**  
 [Texto del enlace aquí](www.pagina.com "Título del enlace")  
-![Texto alternativo](www.pagina.com/imagen.jpg "Título de la imagen")
+![Texto alternativo](http://ambicia.com/img/broi-4/queen-marry-640-06.jpg "Título de la imagen")
