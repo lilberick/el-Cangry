@@ -15,6 +15,6 @@ int main(){
 ```
 * lista1
 1. utiles
-2. cosas
+2. cosas  
 **A ver que tenemos aqui**  
 
