@@ -21,4 +21,4 @@ t. tambien
 
 **A ver que tenemos aqui**  
 [Texto del enlace aquí](www.pagina.com "Título del enlace")  
-![I love you Baby](http://ambicia.com/img/broi-4/queen-marry-640-06.jpg "My love")
+![I love you Baby](http://ambicia.com/img/broi-4/queen-marry-640-06.jpg/150 "My love")
