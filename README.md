@@ -23,4 +23,4 @@ t. tambien
 [Texto del enlace aquí](www.pagina.com "Título del enlace")  
 ![I love you Baby](http://ambicia.com/img/broi-4/queen-marry-640-06.jpg "My love")
 ![Chequea la animación para que veas como es](https://gph.is/g/E1nWvgd)
-![Mr Robot](./imagenes/Elliot.jpg "Dale click para ser hackeado")
+![Mr Robot](./Imagenes/Elliot.jpg "Dale click para ser hackeado")
