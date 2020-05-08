@@ -24,4 +24,4 @@ t. tambien
 ![I love you Baby](http://ambicia.com/img/broi-4/queen-marry-640-06.jpg "My love")
 ![Chequea la animación para que veas como es](https://gph.is/g/E1nWvgd)
 ![Mr Robot](./Imagenes/Elliot.jpg "Dale click para ser hackeado")
-![Sample Video](video/chupetin.mp4)
+![Sample Video](./video/chupetin.mp4)
