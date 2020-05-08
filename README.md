@@ -3,7 +3,7 @@
 >aqui se pone las notas
 
 **Aqui todos los temas relacionados**  
-*aqui las cursivas*
+*veamos como son las cursivas*
 
 ```[c++]
 `#include<iostream>
