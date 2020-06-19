@@ -2,6 +2,8 @@
 ## bota tu gaaa 
 >aqui se pone las notas
 
+a<sub>i</sub>  
+a<sup>i</sup>  
 **Aqui todos los temas relacionados**  
 *veamos como son las cursivas*
 
