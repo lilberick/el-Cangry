@@ -1,9 +1,12 @@
 # titulo  
 ## bota tu gaaa 
->aqui se pone las notas
+>aqui se pone las notas  
 
 a<sub>i</sub>  
-a<sup>i</sup>  
+a<sup>i</sup>   
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">  
+![formula](https://render.githubusercontent.com/render/math?math=\tag{hi}%20x+y^{2x})  
+![formula](https://render.githubusercontent.com/render/math?math=\displaystyle\sum_{i=1}^n)  
 **Aqui todos los temas relacionados**  
 *veamos como son las cursivas*
 
