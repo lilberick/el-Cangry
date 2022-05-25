@@ -30,3 +30,8 @@ t. tambien
 ![Chequea la animación para que veas como es](https://gph.is/g/E1nWvgd)
 ![Mr Robot](./Imagenes/Elliot.jpg "Dale click para ser hackeado")
 ![Sample Video](./video/chupetin.mp4)
+
+## Matematica
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
